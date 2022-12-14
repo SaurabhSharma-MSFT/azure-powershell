@@ -19,6 +19,9 @@
 -->
 
 ## Upcoming Release
+* Fixed start time parameter description of `Get-AzActivityLog` [#20409]
+
+## Version 4.3.0
 * Fixed bug for `New-AzActivityLogAlert` and `Update-AzActivityLogAlert` [#19927]
 
 ## Version 4.2.1
